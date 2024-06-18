@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 
 
 
 <p align="left">
@@ -8,8 +8,6 @@
 </p>
 
 
-
-## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cielcs&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cielcs&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cielcs&theme=gruvbox)
