@@ -8,9 +8,6 @@
   <a href="https://github.com/cielcs">
     <img height="20" src="https://img.shields.io/github/followers/cielcs?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/cielcs">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/cielcs/posts.svg" />
-  </a>
 </p>
 <!--
 **cielcs/cielcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
