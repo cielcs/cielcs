@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=cielcs&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=cielcs&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook)
 
 ![](https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,docker)
 
